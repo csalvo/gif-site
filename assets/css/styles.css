@@ -36,3 +36,8 @@ nav {
 #gifFilter:hover {
   background-color: #bff28c;
 }
+
+#gif {
+	display: inline;
+	margin: 15px;
+}
