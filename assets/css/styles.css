@@ -1,0 +1,38 @@
+body {
+  background-image: url(../images/food.jpg);
+  font-family: Avenir;
+  width: auto;
+}
+
+nav {
+	background-color: #eee;
+	padding: 15px;
+}
+
+.navbar-brand {
+	font-family: "Gloria Hallelujah";
+	font-weight: bold;
+	font-size: 38px;
+	color: #666;
+}
+
+#newSearch {
+	float: right;
+	width:30%;
+	vertical-align: middle;
+}
+
+.form-control {
+	width: 70% !important;
+}
+
+#gifFilter {
+	margin:10px;
+	padding: 10px;
+	background-color:#eee;
+	font-size: 18px;
+}
+
+#gifFilter:hover {
+  background-color: #bff28c;
+}
